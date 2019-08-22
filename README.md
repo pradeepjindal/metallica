@@ -1,5 +1,5 @@
 # metallica
-metallica fullstack microservices poc (WIP)
+metallica microservices poc (WIP)
 
 It is an Spring Cloud based implementation
 
